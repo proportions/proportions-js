@@ -1,0 +1,28 @@
+{
+  "name": "proportions",
+  "description": "Organic, Mechanical and Musical Proportions",
+  "version": "1.0.0",
+  "main": "dist/proportions.js",
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "repository": "christianhg/proportions",
+  "author": "Christian Grøngaard <christianhg@gmail.com>",
+  "license": "MIT",
+  "babel": {
+    "plugins": [
+      "ramda"
+    ],
+    "presets": [
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-ramda": "^1.2.0",
+    "babel-preset-es2015": "^6.24.1",
+    "ramda": "^0.24.1",
+    "webpack": "^3.3.0"
+  }
+}
