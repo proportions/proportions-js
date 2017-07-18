@@ -6,6 +6,9 @@
   "scripts": {
     "build": "webpack -p"
   },
+  "files": [
+    "dist"
+  ],
   "repository": "christianhg/proportions",
   "author": "Christian Grøngaard <christianhg@gmail.com>",
   "license": "MIT",
