@@ -1,7 +1,7 @@
 {
   "name": "proportions",
   "description": "Organic, Mechanical and Musical Proportions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/proportions.js",
   "scripts": {
     "build": "webpack -p"
