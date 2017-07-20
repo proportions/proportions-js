@@ -4,6 +4,22 @@
 
 From *The Elements of Typographic Style* by Robert Bringhurst.
 
+Install using `npm` or `yarn`:
+
+```
+[npm|yarn] install proportions
+```
+
+Import the whole `proportions` object or destructure it:
+
+```js
+import proportions from 'proportions'
+```
+
+```js
+import { goldenSection } from 'proportions'
+```
+
 ```
 Double Square               2
 Tall Octagon                1.924
