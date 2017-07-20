@@ -1,5 +1,9 @@
 # Proportions 📐
 
+[![npm module](https://badge.fury.io/js/proportions.svg)](https://www.npmjs.org/package/proportions)
+[![Dependencies](https://david-dm.org/christianhg/proportions.svg)](https://david-dm.org/christianhg/proportions)
+[![devDependencies Status](https://david-dm.org/christianhg/proportions/dev-status.svg)](https://david-dm.org/christianhg/proportions?type=dev)
+
 > Organic, Mechanical and Musical Proportions
 
 From *The Elements of Typographic Style* by Robert Bringhurst.
