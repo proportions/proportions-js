@@ -10,7 +10,7 @@
     "dist"
   ],
   "repository": "proportions/proportions",
-  "author": "Christian Grøngaard <christianhg@gmail.com>",
+  "author": "Christian Hamburger Grøngaard <christianhg@gmail.com>",
   "license": "MIT",
   "babel": {
     "plugins": [
