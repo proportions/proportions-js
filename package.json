@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "repository": "christianhg/proportions",
+  "repository": "proportions/proportions",
   "author": "Christian Grøngaard <christianhg@gmail.com>",
   "license": "MIT",
   "babel": {
