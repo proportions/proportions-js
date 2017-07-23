@@ -1,6 +1,6 @@
 {
   "name": "proportions",
-  "description": "Organic, Mechanical and Musical Proportions",
+  "description": "Organic, Mechanical and Musical Proportions for JavaScript",
   "version": "1.0.2",
   "main": "dist/proportions.js",
   "scripts": {
