@@ -5,7 +5,6 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'proportions.js',
-    // library: 'proportions',
     libraryTarget: "commonjs",
   },
   module: {
