@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "repository": "proportions/proportions",
+  "repository": "proportions/proportions-js",
   "author": "Christian Hamburger Grøngaard <christianhg@gmail.com>",
   "license": "MIT",
   "babel": {
