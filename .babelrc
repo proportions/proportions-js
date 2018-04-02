@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "ramda"
+  ],
+  "presets": [
+    "es2015"
+  ]
+}

@@ -12,14 +12,6 @@
   "repository": "proportions/proportions-js",
   "author": "Christian Hamburger Grøngaard <christianhg@gmail.com>",
   "license": "MIT",
-  "babel": {
-    "plugins": [
-      "ramda"
-    ],
-    "presets": [
-      "es2015"
-    ]
-  },
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
