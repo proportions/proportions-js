@@ -11,10 +11,8 @@ From *The Elements of Typographic Style* by Robert Bringhurst.
 * [General info](https://github.com/proportions/proportions)
 * [Sass implementation](https://github.com/proportions/proportions-sass)
 
-Install using `npm` or `yarn`:
-
 ```
-[npm|yarn] install proportions
+npm install proportions
 ```
 
 Import the whole `proportions` object:
